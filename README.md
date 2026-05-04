@@ -2,8 +2,10 @@
 The objective of this project is to analyze a comprehensive dataset of Canadian oil wells (including Alberta and Saskatchewan) to evaluate production strategies and asset health. The focus is on understanding the performance across different Plays (e.g., Bakken, Montney, Duvernay) and Resource Types (Conventional vs. Tight) to optimize resource management and operational efficiency.  
 
 
+
 <h2>2. Business Assumptions</h2>
 The analysis is based on the Canadian_Oil_Wells_Enhanced.xlsx dataset. While based on regional well data, specific production volumes and downtime events were modeled to demonstrate end-to-end analytical capabilities suitable for Tundra's Data Analyst role.  
+
 
 
 <h2>3. Solution Strategy</h2>
@@ -34,6 +36,7 @@ Field (Regional operational areas)
 Created a centralized Date Dimension table to support time-intelligence DAX functions (YTD, MTD) and built a robust Star Schema connecting the Well Master (Dimensions) to Production Logs (Facts).
 
 
+
 <h2>4. Business Questions & Analytics</h2>
 <h4>4.1 Which "Play" exhibits the highest density of active completions?</h4>
 The analysis identifies the Bakken and Montney plays as the primary drivers of recent activity, with a significant concentration of horizontal wells compared to vertical completions.
@@ -45,12 +48,14 @@ By segmenting wells by their current Status, the report highlights fields in Sas
 Tight oil assets show a steeper initial decline rate but higher long-term stability, requiring distinct capital allocation strategies compared to conventional assets.
 
 
+
 <h2>5. Business Insights</h2>
 <h4>5.1 Play Performance</h4>
 The Bakken play in Saskatchewan remains a cornerstone of production efficiency, representing a significant portion of the total active well count in the dataset.
 
 <h4>5.2 Geospatial Clusters</h4>
 Mapping the Latitude/Longitude reveals high-density clusters in the Virden and Daly areas (Manitoba/Saskatchewan border), indicating localized infrastructure advantages that Tundra can leverage.
+
 
 
 <h2>6. Conclusion</h2>
