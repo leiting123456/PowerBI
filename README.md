@@ -50,3 +50,7 @@ Mapping the Latitude/Longitude reveals high-density clusters in the Virden and D
 
 <h2>6. Conclusion</h2>
 This Power BI & Python solution provides the management with a "single source of truth" for well performance. By translating ambiguous raw data into structured KPIs, the dashboard enables stakeholders to identify production "gaps" and optimize maintenance schedules, directly supporting The commitment to sustainable and disciplined growth.
+
+![2026-05-04 05 08 24](https://github.com/user-attachments/assets/3eb9e88b-24b2-4ece-a7cc-8f15aa4276ad)
+![2026-05-04 05 09 11](https://github.com/user-attachments/assets/72ef9d5a-4e1d-4595-834c-50bb6ff31f1a)
+
