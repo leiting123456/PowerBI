@@ -44,7 +44,7 @@ Tight oil assets show a steeper initial decline rate but higher long-term stabil
 It remains a cornerstone of production efficiency, representing a significant portion of the total active well count in the dataset.
 
 <h4>5.2 Geospatial Clusters</h4>
-Mapping the Latitude/Longitude reveals high-density clusters in the Virden and Daly areas (Manitoba/Saskatchewan border), indicating localized infrastructure advantages that Tundra can leverage.
+Mapping the Latitude/Longitude reveals high-density clusters in the Virden and Daly areas (Manitoba/Saskatchewan border), indicating localized infrastructure advantages.
 
 
 
